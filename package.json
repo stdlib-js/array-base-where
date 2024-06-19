@@ -46,7 +46,8 @@
     "@stdlib/strided-base-reinterpret-boolean": "github:stdlib-js/strided-base-reinterpret-boolean#main",
     "@stdlib/strided-base-reinterpret-complex": "^0.1.1",
     "@stdlib/types": "^0.3.2",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.1"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-base-ones": "^0.2.1",
