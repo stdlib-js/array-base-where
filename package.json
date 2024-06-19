@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-where",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Take elements from either one of two arrays depending on a condition.",
   "license": "Apache-2.0",
   "author": {
@@ -43,7 +43,7 @@
     "@stdlib/array-base-resolve-getter": "^0.2.1",
     "@stdlib/math-base-special-ceil": "^0.2.1",
     "@stdlib/math-base-special-maxn": "^0.2.1",
-    "@stdlib/strided-base-reinterpret-boolean": "github:stdlib-js/strided-base-reinterpret-boolean#main",
+    "@stdlib/strided-base-reinterpret-boolean": "^0.0.1",
     "@stdlib/strided-base-reinterpret-complex": "^0.1.1",
     "@stdlib/types": "^0.3.2",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.1"
@@ -53,7 +53,7 @@
     "@stdlib/array-base-to-accessor-array": "^0.2.1",
     "@stdlib/array-base-zero-to": "^0.2.1",
     "@stdlib/array-base-zeros": "^0.2.1",
-    "@stdlib/array-bool": "github:stdlib-js/array-bool#main",
+    "@stdlib/array-bool": "^0.0.1",
     "@stdlib/array-complex64": "^0.2.1",
     "@stdlib/array-int32": "^0.2.1",
     "@stdlib/array-ones": "^0.2.1",
@@ -65,7 +65,7 @@
     "@stdlib/assert-is-method": "^0.2.1",
     "@stdlib/assert-is-same-complex64": "^0.2.1",
     "@stdlib/assert-is-same-complex64array": "^0.2.1",
-    "@stdlib/complex-float32-ctor": "github:stdlib-js/complex-float32-ctor#main",
+    "@stdlib/complex-float32-ctor": "^0.0.1",
     "@stdlib/math-base-special-pow": "^0.2.1",
     "@stdlib/random-array-bernoulli": "^0.2.1",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
