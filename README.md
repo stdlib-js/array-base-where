@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import where from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-where@deno/mod.js';
+import where from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-where@v0.0.3-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-where@deno/mod.js';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-where@v0.0.3-deno/mod.js';
 ```
 
 #### where( condition, x, y )
@@ -198,7 +198,7 @@ var bool = ( arr === out );
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
-import where from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-where@deno/mod.js';
+import where from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-where@v0.0.3-deno/mod.js';
 
 var opts = {
     'dtype': 'generic'
